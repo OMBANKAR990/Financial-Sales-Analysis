@@ -5,7 +5,7 @@ The Financial Sales Analysis Dashboard in Power BI provides an interactive visua
 
 This Power BI dashboard provides a comprehensive financial sales analysis, enabling businesses to track revenue, profit margins, sales trends, and key performance indicators (KPIs). It helps decision-makers understand business performance, identify growth opportunities, and make data-driven decisions efficiently.
 
-# Features
+### Features
 
 Revenue Analysis – Tracks total sales revenue across different time periods.
 Profit Margins – Displays gross and net profit trends.
@@ -16,7 +16,7 @@ Interactive Filters – Users can filter data by date, category, region, etc.
 Dynamic Visuals – Graphs, charts, and tables for easy insights.
 Forecasting (if applicable) – Uses Power BI’s forecasting tools for predictive analysis.
 
-# Dataset Description
+### Dataset Description
 
 The dataset used in this project contains financial sales transactions across multiple regions. It includes:
 Transaction Date
@@ -29,7 +29,7 @@ Region & Sales Channel
 
 📌 The dataset has been cleaned, transformed, and optimized for analysis in Power BI.
 
-# Installation & Usage
+### Installation & Usage
 
 Follow these steps to use the Power BI Financial Sales Analysis Dashboard:
 Clone or download this repository.
@@ -40,7 +40,7 @@ Export reports as PDFs or share insights via Power BI service.
 
 
 
-# Technologies Used
+### Technologies Used
 
 Power BI – Data visualization & dashboard creation.
 SQL (if used) – Data extraction & transformation.
